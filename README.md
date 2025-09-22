@@ -1,6 +1,6 @@
 # MSList-to-Excel
 
-This project addresses a limitation when exporting data from Microsoft Lists. By default, Microsoft Lists provides an export in CSV format, but when the the file surpasses the 5000 registers, a direct conversion to Excel (.xlsx) is not possible due to formatting inconsistencies. The goal of this project is to build a lightweight and reliable tool that processes the exported CSV file and transforms it into a clean, usable Excel file.
+This project addresses a limitation when exporting data from Microsoft Lists. By default, Microsoft Lists provides an export in CSV format, but when the the file surpasses the 5000 registers, a direct conversion to Excel (.xlsx) is not possible due to formatting inconsistencies. The goal of this project is to build a lightweight and reliable tool that processes the exported CSV file and transforms it into a clean, usable Excel file ready to be filtered.
 
 The solution will:
 
